@@ -1,0 +1,55 @@
+Fundamentals of Data Science
+======================================
+Data Exploration, Visualization, and Feature Engineering
+
+Hands-on coding: Data Exploration, Visualization, and Feature Engineering
+
+Machine Learning Fundamentals
+
+Classification Algorithms
+
+Introduction to Predictive Modeling
+======================================
+Decision Tree Learning
+
+Logistic Regression
+
+Hands-On: Building a Classifier
+
+Hands-On Activity: Determining the best split for Classification Models, Evaluation, and Cross-Validation
+
+Regression Algorithms
+
+Linear Regression
+======================================
+Regularized Regression Models
+
+Hands-On Lab: Building a Regression Model
+
+Hands-On Activity: Evaluating Performance, Finding Maxima and Minima, Gradient Descent, Visualizing Features and Parameters
+
+Unsupervised Learning
+
+K-Means Clustering
+======================================
+Hands-On Lab: Using K-Means Clustering
+
+Recommender Systems
+
+Text Analytics
+======================================
+Content-Based and Collaborative Filtering
+
+Evaluation of Recommendation Systems. DCG, nDCG
+
+Hands-On Lab: Analyzing a Document Collection
+
+Hands-On Activity: Using TF-IDF and Cosine Similarity to Query a Document Collection
+
+Operationalizing Machine Learning Models
+
+
+
+Metrics and Methods for Evaluating Classification and Regression Models
+
+Tuning
