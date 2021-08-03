@@ -1,0 +1,109 @@
+The course consists of Theory (40%) and Practical (60%)
+=========================================================
+Module 1: Introduction to deep learning
+---------------------------------------------------------
+Variability models (deformation model, stochastic model)
+
+Intro scattering networks
+
+Covariance/invariance: capsules and related models
+
+Connections with other models: dictionary learning
+
+Other tasks: localization, regression
+
+Extensions to non-Euclidean domains
+
+Module 2: Deep supervised Learning with Neural Networks
+---------------------------------------------------------
+Deep Learning
+
+Single and Multi-Layer Neural Networks
+
+Perceptron Rule
+
+Gradient Descent
+
+Backpropagation
+
+Loss Functions
+
+Module 3: Deep Unsupervised Learning
+---------------------------------------------------------
+Autoencoders (standard, denoising, contractive, etc.)
+
+Variational Autoencoders
+
+Adversarial Generative Networks
+
+Maximum Entropy Distributions
+
+Module 4: Hyperparameters tuning, Regularization, and Optimization
+---------------------------------------------------------
+Parameters vs Hyperparameters
+
+Regularization reduces overfitting
+
+Data Augmentation
+
+Vanishing/Exploding gradients
+
+Weight Initialization Methods
+
+Optimizers
+
+Building a Linear Classifier
+
+Module 5: Deep Learning for Vision Problems
+---------------------------------------------------------
+Object Localization & Detection
+
+Bounding box predictions
+
+Anchor boxes
+
+Region Proposal Networks
+
+Detection Algorithms: RCNN Faster RCNN, Yolo, SSD
+
+Caffe & Object Detection
+
+Module 6: Sequence Models
+---------------------------------------------------------
+Recurrent Neural Networks (RNN)
+
+Gated Recurrent Unit (GRU)
+
+Long Short-Term Memory (LSTM)
+
+Bidirectional RNN
+
+Backpropagation through time
+
+Image Caption Generation
+
+Machine Translation
+
+Text Generation & Summarization
+
+Image Captioning & Text Generation
+
+Module 7: Miscellaneous (Basics)
+---------------------------------------------------------
+Capsule Networks
+
+Convolutional LSTM
+
+Attention Networks
+
+Restricted Boltzmann Machine
+
+One-Shot Learning, Siamese Networks
+
+Triplet Loss
+
+Graph CNN
+
+Approximate and Energy-Efficient Design for Deep
+
+Enroll in this course to become an industry expert on Deep Learning with Computer Vision
