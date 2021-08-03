@@ -1,0 +1,30 @@
+Course Module
+Class0. Introduction, Installation, First Program, Data Types and
+
+Variables, User input, formatted string, using print(), Keywords.
+
+Class1. Operators, Expressions and Conditional Statements use case Problems.
+
+Class2. Built-in Data Structures List, Tuples, Sets, Dictionary.
+
+Class3. Loops: While loop and For loop and List Comprehension.
+
+Class4. Function and Lambda function.
+
+Class5. Generators, decorators, map, reduce and filter.
+
+Class6. File and Exception Handling, Types of errors.
+
+Class7. OOP: Classes, Objects.
+
+Class8. Inheritance, Encapsulation.
+
+Class9. Polymorphism, Abstraction.
+
+Class10. Standard Libraries: OS, Math, Random, DateTime.
+
+Class11. Regular Expression
+
+Class12-13. Python with SQL & MongoDB
+
+Class14-24. Flask Framework Project
